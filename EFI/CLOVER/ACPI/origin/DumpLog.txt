@@ -1,0 +1,106 @@
+16:580  4:263  Found UEFI Acpi 2.0 RSDP at 9FFFE014
+16:580  0:000  Saving ACPI tables from RSDP 9FFFE014 to EFI\CLOVER\ACPI\origin ...
+16:580  0:000   9FFFE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+16:580  0:000    (Xsdt: 9FFC1188, Rsdt: 9FFC10C4)
+16:580  0:000    9FFC1188: 'XSDT', 'TP-N1N', Rev: 1, Len: 260
+16:580  0:000    9FFC10C4: 'RSDT', 'TP-N1N', Rev: 1, Len: 148
+16:580  0:000    Tables in Xsdt: 28
+16:580  0:000    0. 9FFF5000: 'FACP', 'TP-N1N', Rev: 5, Len: 244
+16:580  0:000        (Dsdt: 9FFCF000, Facs: 9FF3E000, XDsdt: 9FFCF000, XFacs: 0)
+16:580  0:000        9FFCF000: 'DSDT', 'SKL', Rev: 2, Len: 139001
+16:580  0:000        9FF3E000: 'FACS', Ver: 2, Len: 64
+16:580  0:000    1. 9FFFC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972
+16:580  0:000    2. 9FFFB000: 'TPM2', 'TP-N1N', Rev: 3, Len: 52
+16:580  0:000    3. 9FF53000: 'UEFI', 'TP-N1N', Rev: 1, Len: 66
+16:580  0:000    4. 9FFF7000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12506
+16:580  0:000    5. 9FFF6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+16:580  0:000    6. 9FFF4000: 'HPET', 'TP-N1N', Rev: 1, Len: 56
+16:580  0:000    7. 9FFF3000: 'APIC', 'TP-N1N', Rev: 3, Len: 188
+16:580  0:000    8. 9FFF2000: 'MCFG', 'TP-N1N', Rev: 1, Len: 60
+16:580  0:000    9. 9FFF1000: 'ECDT', 'TP-N1N', Rev: 1, Len: 83
+16:580  0:000    10. 9FFCD000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5753
+16:580  0:000    11. 9FFCC000: 'BOOT', 'TP-N1N', Rev: 1, Len: 40
+16:580  0:000    12. 9FFCB000: 'BATB', 'TP-N1N', Rev: 2, Len: 74
+16:580  0:000    13. 9FFCA000: 'SLIC', 'TP-N1N', Rev: 1, Len: 374
+16:580  0:000    14. 9FFC8000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+16:580  0:000    15. 9FFC7000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+16:580  0:000    16. 9FFC6000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1656
+16:580  0:000    17. 9FFC5000: 'WSMT', 'TP-N1N', Rev: 1, Len: 40
+16:580  0:000    18. 9FFC4000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+16:580  0:000    19. 9FFC3000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1293
+16:580  0:000    20. 9FFC2000: 'DBGP', 'TP-N1N', Rev: 1, Len: 52
+16:580  0:000    21. 9FFFD000: 'DBG2', 'TP-N1N', Rev: 0, Len: 84
+16:580  0:000    22. 9FFC0000: 'MSDM', 'TP-N1N', Rev: 3, Len: 85
+16:580  0:000    23. 9FFBF000: 'DMAR', 'TP-N1N', Rev: 1, Len: 168
+16:580  0:000    24. 9FFBE000: 'ASF!', 'TP-N1N', Rev: 32, Len: 160
+16:580  0:000    25. 9FFBD000: 'FPDT', 'TP-N1N', Rev: 1, Len: 68
+16:580  0:000    26. 9FFBC000: 'BGRT', 'TP-N1N', Rev: 1, Len: 56
+16:580  0:000    27. 9FF3B000: 'UEFI', 'TP-N1N', Rev: 1, Len: 318
+16:580  0:000    Tables in Rsdt: 28
+16:580  0:000    0. 9FFF5000: 'FACP', 'TP-N1N', Rev: 5, Len: 244
+16:580  0:000        (Dsdt: 9FFCF000, Facs: 9FF3E000, XDsdt: 9FFCF000, XFacs: 0)
+16:580  0:000        9FFCF000: 'DSDT', 'SKL', Rev: 2, Len: 139001
+16:580  0:000        9FF3E000: 'FACS', Ver: 2, Len: 64
+16:580  0:000    1. 9FFFC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972
+16:580  0:000    2. 9FFFB000: 'TPM2', 'TP-N1N', Rev: 3, Len: 52
+16:580  0:000    3. 9FF53000: 'UEFI', 'TP-N1N', Rev: 1, Len: 66
+16:580  0:000    4. 9FFF7000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12506
+16:580  0:000    5. 9FFF6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+16:580  0:000    6. 9FFF4000: 'HPET', 'TP-N1N', Rev: 1, Len: 56
+16:580  0:000    7. 9FFF3000: 'APIC', 'TP-N1N', Rev: 3, Len: 188
+16:580  0:000    8. 9FFF2000: 'MCFG', 'TP-N1N', Rev: 1, Len: 60
+16:580  0:000    9. 9FFF1000: 'ECDT', 'TP-N1N', Rev: 1, Len: 83
+16:580  0:000    10. 9FFCD000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5753
+16:580  0:000    11. 9FFCC000: 'BOOT', 'TP-N1N', Rev: 1, Len: 40
+16:580  0:000    12. 9FFCB000: 'BATB', 'TP-N1N', Rev: 2, Len: 74
+16:580  0:000    13. 9FFCA000: 'SLIC', 'TP-N1N', Rev: 1, Len: 374
+16:580  0:000    14. 9FFC8000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+16:580  0:000    15. 9FFC7000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+16:580  0:000    16. 9FFC6000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1656
+16:580  0:000    17. 9FFC5000: 'WSMT', 'TP-N1N', Rev: 1, Len: 40
+16:580  0:000    18. 9FFC4000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+16:580  0:000    19. 9FFC3000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1293
+16:580  0:000    20. 9FFC2000: 'DBGP', 'TP-N1N', Rev: 1, Len: 52
+16:580  0:000    21. 9FFFD000: 'DBG2', 'TP-N1N', Rev: 0, Len: 84
+16:580  0:000    22. 9FFC0000: 'MSDM', 'TP-N1N', Rev: 3, Len: 85
+16:580  0:000    23. 9FFBF000: 'DMAR', 'TP-N1N', Rev: 1, Len: 168
+16:580  0:000    24. 9FFBE000: 'ASF!', 'TP-N1N', Rev: 32, Len: 160
+16:580  0:000    25. 9FFBD000: 'FPDT', 'TP-N1N', Rev: 1, Len: 68
+16:580  0:000    26. 9FFBC000: 'BGRT', 'TP-N1N', Rev: 1, Len: 56
+16:580  0:000    27. 9FF3B000: 'UEFI', 'TP-N1N', Rev: 1, Len: 318
+16:580  0:000  Found UEFI Acpi 1.0 RSDP at 9FFFE000
+16:580  0:000  Printing ACPI tables from RSDP 9FFFE000 ...
+16:580  0:000   9FFFE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+16:580  0:000    (Rsdt: 9FFC1000)
+16:580  0:000    9FFC1000: 'RSDT', 'TP-N1N', Rev: 1, Len: 144
+16:580  0:000    Tables in Rsdt: 27
+16:580  0:000    0. 9FFF5000: 'FACP', 'TP-N1N', Rev: 5, Len: 244
+16:580  0:000        (Dsdt: 9FFCF000, Facs: 9FF3E000, XDsdt: 9FFCF000, XFacs: 0)
+16:580  0:000        9FFCF000: 'DSDT', 'SKL', Rev: 2, Len: 139001
+16:580  0:000        9FF3E000: 'FACS', Ver: 2, Len: 64
+16:580  0:000    1. 9FFFC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972
+16:580  0:000    2. 9FFFB000: 'TPM2', 'TP-N1N', Rev: 3, Len: 52
+16:580  0:000    3. 9FF53000: 'UEFI', 'TP-N1N', Rev: 1, Len: 66
+16:580  0:000    4. 9FFF7000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12506
+16:580  0:000    5. 9FFF6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+16:580  0:000    6. 9FFF4000: 'HPET', 'TP-N1N', Rev: 1, Len: 56
+16:580  0:000    7. 9FFF3000: 'APIC', 'TP-N1N', Rev: 3, Len: 188
+16:580  0:000    8. 9FFF2000: 'MCFG', 'TP-N1N', Rev: 1, Len: 60
+16:580  0:000    9. 9FFF1000: 'ECDT', 'TP-N1N', Rev: 1, Len: 83
+16:580  0:000    10. 9FFCD000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5753
+16:580  0:000    11. 9FFCC000: 'BOOT', 'TP-N1N', Rev: 1, Len: 40
+16:580  0:000    12. 9FFCB000: 'BATB', 'TP-N1N', Rev: 2, Len: 74
+16:580  0:000    13. 9FFC8000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+16:580  0:000    14. 9FFC7000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+16:580  0:000    15. 9FFC6000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1656
+16:580  0:000    16. 9FFC5000: 'WSMT', 'TP-N1N', Rev: 1, Len: 40
+16:580  0:000    17. 9FFC4000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+16:580  0:000    18. 9FFC3000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1293
+16:580  0:000    19. 9FFC2000: 'DBGP', 'TP-N1N', Rev: 1, Len: 52
+16:580  0:000    20. 9FFFD000: 'DBG2', 'TP-N1N', Rev: 0, Len: 84
+16:580  0:000    21. 9FFC0000: 'MSDM', 'TP-N1N', Rev: 3, Len: 85
+16:580  0:000    22. 9FFBF000: 'DMAR', 'TP-N1N', Rev: 1, Len: 168
+16:580  0:000    23. 9FFBE000: 'ASF!', 'TP-N1N', Rev: 32, Len: 160
+16:580  0:000    24. 9FFBD000: 'FPDT', 'TP-N1N', Rev: 1, Len: 68
+16:580  0:000    25. 9FFBC000: 'BGRT', 'TP-N1N', Rev: 1, Len: 56
+16:580  0:000    26. 9FF3B000: 'UEFI', 'TP-N1N', Rev: 1, Len: 318
